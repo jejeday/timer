@@ -1,0 +1,41 @@
+.ir {
+    position: absolute;
+    clip-path: inset(50%);
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+body {
+    background: no-repeat radial-gradient(96.74% 276.79% at 3.59% 5.28%, #F0F4FF 0%, #A5B6EE 100%);
+}
+
+.company {
+    display: block;
+    margin: 0 auto;
+    width: 244px;
+
+}
+
+.container {
+    margin: 180px auto;
+    width: 400px;
+    height: 360px;
+    background: linear-gradient(144.07deg, #5572BB 2.13%, #374B7C 102.97%);
+    box-shadow: 20px 20px 60px 10px rgba(55, 75, 124, 0.4);
+    border-radius: 16px;
+}
+
+.timer {
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+hr {
+    background: #3D538A;
+    width: 312px;
+    height: 1px;
+}
